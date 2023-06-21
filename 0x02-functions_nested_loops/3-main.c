@@ -1,6 +1,7 @@
 #include"main.h"
 /**
 *main - Check the code
+*
 *Return: Always (Success)
 */
 int main(void)
