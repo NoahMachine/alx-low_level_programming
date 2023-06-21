@@ -1,6 +1,6 @@
-#include"main.h"
+#include "main.h"
 /**
-*_isapha - Shows 1 if the input is a
+*Description: _isalpha - Shows 1 if the input is a
 *letter Another cases, shows 0
 *
 *@c: The character in ASCII code
