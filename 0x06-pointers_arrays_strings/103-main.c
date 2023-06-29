@@ -2,12 +2,13 @@
 #include <stdio.h>
 /**
 *main - check the code
-* Return: Always 0.
+*
+*Return: Always 0.
 */
 int main(void)
 {
-char *n = "123456789243453743756756784458";
-char *m = "903424659732465983465962349569346";
+char *n = "1234567890 ";
+char *m = "903479066346";
 char r[100];
 char r2[10];
 char r3[11];
